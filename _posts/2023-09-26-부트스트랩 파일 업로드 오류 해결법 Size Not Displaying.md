@@ -5,7 +5,6 @@ categories:
   - JavaScript
 tags:
   - 부트스트랩에러
-pin: true
 ---
 
 ## 문제점: 'Size Not Displaying'
