@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://lhg020600.github.io/sitemap.xml
+
+#DaumWebMasterTool:20d5a8e2ba7bdb951663ae059f50b99ad54698597a16713f0a2c3e1bd441cc4f:K5NHWMt5JRJpVGszrCNoYA==
